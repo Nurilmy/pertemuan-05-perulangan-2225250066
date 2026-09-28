@@ -2,7 +2,7 @@
 
 Nama: Nuril Ilmy
 NIM: 2225250066
-Kelas: Pendidikan Matematika
+Kelas: 3E
 
 ## Tujuan
 
