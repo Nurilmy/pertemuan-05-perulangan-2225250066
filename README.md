@@ -204,14 +204,3 @@ Pada pertemuan ini saya mempelajari penggunaan perulangan `for` dan `while` dala
 Kesalahan yang perlu diperhatikan dalam perulangan adalah batas `range`, pembaruan variabel pada `while`, dan posisi akumulator. Jika variabel kontrol pada `while` tidak diperbarui, program dapat mengalami infinite loop. Jika `total = 0` diletakkan di dalam loop, nilai total akan terus di-reset.
 
 Saya juga belajar melakukan pengujian menggunakan beberapa test case dan memeriksa perubahan nilai variabel pada setiap iterasi.
-
-## Kesimpulan
-
-Perulangan `for` dan `while` dapat digunakan untuk menjalankan proses secara berulang. Pemilihan jenis perulangan harus disesuaikan dengan masalah yang dikerjakan. Pengujian dan tracing diperlukan untuk memastikan perulangan berhenti pada kondisi yang benar dan menghasilkan output yang sesuai.
-
-## Sumber
-
-* Materi Pertemuan 05 Algoritma dan Pemrograman, Perulangan `for` dan `while` dalam Python di VS Code dan Pengumpulan melalui GitHub.
-* Python Software Foundation — Python 3 Documentation.
-* Visual Studio Code Documentation — Python in Visual Studio Code.
-* GitHub Docs — Creating a New Repository dan Adding Locally Hosted Code to GitHub.
